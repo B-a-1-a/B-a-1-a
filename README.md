@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+I am a 3rd year at UW Madison
+I enjoy Web Apps, Data Science, Agents
+
+Hit me up if you want to work on some cool projects
+
 <!--
 **B-a-1-a/B-a-1-a** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
