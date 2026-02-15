@@ -1,4 +1,4 @@
-## Hi there 👋
+## How do you do
 
 I am a 3rd year at UW Madison
 I enjoy Web Apps, Data Science, Agents
