@@ -1,7 +1,7 @@
 ## How do you do
 
 I am a 3rd year at UW Madison
-I enjoy Web Apps, Data Science, Agents
+I enjoy making Web Apps, Data Science, and AI Agents
 
 Hit me up if you want to work on some cool projects
 
